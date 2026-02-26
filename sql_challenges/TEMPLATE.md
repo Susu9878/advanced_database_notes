@@ -1,4 +1,3 @@
-
 ### `sql_challenges/challenge-01/README.md`
 
 ```md
