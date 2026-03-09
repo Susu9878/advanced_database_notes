@@ -1,3 +1,4 @@
+-- Review update
 --lesson 10
 SELECT *, MAX(years_employed) FROM employees ;
 SELECT *, AVG(years_employed) FROM employees group by role;
