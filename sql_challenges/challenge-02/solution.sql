@@ -1,3 +1,4 @@
+-- Review Update
 -- lesson 6
 SELECT * FROM movies join boxoffice on movies.id = boxoffice.movie_id;
 SELECT * FROM movies join boxoffice on movies.id = boxoffice.movie_id where international_sales > domestic_sales;
