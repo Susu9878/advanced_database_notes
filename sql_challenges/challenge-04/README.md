@@ -1,4 +1,8 @@
-Today's Challenge
-de freesql.com
+From freesqL.com complete 
 
-Union, Minus, and Intersect: Databases for Developers
+Analytic Functions: Databases for Developers
+ 
+
+From datalemur
+
+https://datalemur.com/questions/sql-top-three-salaries
